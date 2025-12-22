@@ -1,67 +1,18 @@
-# C Exercises & Coding Problems
+# Coding Practice
 
-> A comprehensive collection of coding solutions, LeetCode-style problems, and language learning exercises.
+This repository contains my solutions (with explanations) for interview-style coding problems.
 
-## 📋 About
+## Structure
+- Language → Platform → Problem
+- Each problem folder includes:
+  - `README.md` explanation
+  - One or more solution files
 
-This repository documents my journey through various coding challenges and programming exercises. From mastering data structures to learning new languages, every solution is carefully crafted and organized for reference and continuous learning.
+## Progress
+- LeetCode: 1 solved
+- NeetCode: 0 solved
+- HackerRank: 28 solved
 
-**Goal:** Build strong fundamentals and problem-solving skills across multiple programming languages.
-
----
-
-## 🗂️ Repository Structure
-
-```
-C-exercises/
-├── C/
-│   ├── C++ Practice/          # C++ exercises and problems
-│   └── ...                     # Various algorithm implementations
-│
-└── Python Practice/            # Python coding exercises
-```
-
-### Folder Breakdown
-
-- **C/** - C and C++ algorithm problems including:
-  - Data structures (linked lists, arrays)
-  - Dynamic memory allocation
-  - String manipulation
-  - Sorting & rearrangement problems
-
-- **Python Practice/** - Python coding exercises and solutions
-
----
-
-## 💻 Technologies Used
-
-- **C** - Core algorithms and data structures
-- **C++** - Object-oriented programming practice
-- **Python** - High-level problem solving
-
----
-
-## 🎯 Contents at a Glance
-
-| Category | Concepts |
-|----------|----------|
-| **Data Structures** | Arrays, Linked Lists, Strings |
-| **Algorithms** | Sorting, Searching, Dynamic Memory |
-| **Languages** | C, C++, Python |
-
----
-
-## 🚀 Quick Start
-
-Browse through the organized folders to explore solutions for:
-- LeetCode-style problems
-- Algorithm implementations
-- Language-specific exercises
-
----
-
-## 📝 Notes
-
-Solutions are provided with clean, readable code and serve as both learning material and reference implementations.
-
-
+## Index
+- [C++ LeetCode](./C++_Practice/LeetCode)
+- [Python LeetCode](./Python/LeetCode)
