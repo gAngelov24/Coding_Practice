@@ -9,7 +9,7 @@ This repository contains my solutions (with explanations) for interview-style co
   - One or more solution files
 
 ## Progress
-- LeetCode: 1 solved
+- LeetCode: 2 solved
 - NeetCode: 0 solved
 - HackerRank: 28 solved
 
