@@ -15,4 +15,4 @@ This repository contains my solutions (with explanations) for interview-style co
 
 ## Index
 - [C++ LeetCode](./C++_Practice/LeetCode)
-- [Python LeetCode](./Python/LeetCode)
+- [Python LeetCode](./Python_Practice/LeetCode)
