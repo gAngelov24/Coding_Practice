@@ -1,3 +1,4 @@
+# This solution is unoptimized
 class Solution(object):
     def longestCommonPrefix(self, strs):
         """
