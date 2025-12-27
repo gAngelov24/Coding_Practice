@@ -2,11 +2,9 @@ class Solution {
 public:
     int bestClosingTime(string customers) {
         int n = customers.size(), count = 0;
-        vector<int> penalty;
         vector<int> ret;
         for (int i = 0; i < n; i++){
             int pen = (customers[i] == 'Y') ? 1 : 0;
-            penalty.push_back(pen);
             count+=pen;
         }
         ret.push_back(0); ret.push_back(count);
